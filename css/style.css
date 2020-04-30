@@ -110,18 +110,8 @@ img {
     padding: 10px;
   }
 
-  #steps [class*="col-"]:last-child {
-   float: right;
-   width: 100%;
- }
-
  #why [class*="col-"] {
    margin-top: 20px;
- }
-
- #why [class*="col-"]:last-child {
-   float: right;
-   width: 100%;
  }
 
  #why img {
