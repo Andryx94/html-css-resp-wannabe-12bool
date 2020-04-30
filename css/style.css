@@ -22,7 +22,6 @@ img {
   margin-left: auto;
 }
 
-/* BLOCCO STEPS */
 /* BLOCCO PERCHE */
 #why .col-lg-12 {
   margin-top: 80px;
@@ -35,11 +34,11 @@ img {
 }
 
 /* Versione mobile */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   body {
     background-color: #f0f0f0;
     padding: 0 10px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
   }
 
   h1 {
@@ -79,11 +78,11 @@ img {
 /* fine versione mobile */
 
 /* Versione tablet */
-@media all and (min-width: 768px) and (max-width: 992px) {
+@media all and (min-width: 768px) and (max-width: 991px) {
   body {
     background-color: #f0f0f0;
     padding: 0 10px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
   }
 
   h1 {
